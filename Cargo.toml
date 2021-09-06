@@ -7,4 +7,4 @@ edition = "2018"
 name = "macos_linker_error"
 
 [dependencies]
-rithm = { git = "https://github.com/lycantropos/rithm" }
+rithm = "0.1.1"
